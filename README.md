@@ -1,6 +1,4 @@
 # Algoritma Test dengan Kotlin Android
-## Deskripsi
-Tes ini dirancang untuk menguji pemahaman dan keterampilan pemrograman Kotlin Anda dalam konteks pengembangan aplikasi Android, dengan fokus pada implementasi algoritma dan pengujian unit.
 ## Langkah-langkah untuk Menjalankan Tes
 1. Clone atau unduh repositori ini ke lokal komputer Anda.
 2. Buka proyek menggunakan Android Studio.
